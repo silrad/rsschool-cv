@@ -1,1 +1,1 @@
-# rsschool-cv
+https://silrad.github.io/rsschool-cv/cv
